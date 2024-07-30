@@ -50,7 +50,7 @@ const Login = () => {
     return (
         <div className='back'>
        <div className="navbar">
-    <div className="navbar-brand">Welcome To Petrol login!! 😊</div>
+    <div className="navbar-brand">Welcome To login!! 😊</div>
 </div>
             <div className="login-container">
               
