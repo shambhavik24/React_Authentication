@@ -6,7 +6,7 @@
 <h2>2. Create a vite project </h2>
 <p>Open terminal or ctrl+shift+` and write <p>
 <img src = 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*tNxXy1qepYLZiCl-IWrSCA@2x.jpeg' width="400" />
-<p>For example i want my project name as reactauth then i will type npm create vite@latest random random is my project name and it will create and run the script</p>
+<p>For example i want my project name as random then i will type npm create vite@latest random random is my project name and it will create and run the script</p>
 <h4> It will display "select framework"</h4>
 <img src = 'https://miro.medium.com/v2/resize:fit:720/format:webp/1*Pin-bV1osKdyadznpNkSiQ@2x.jpeg' width="400" />
 <p> After selecting the framework, vite prompt you to choose the language you want to work with on project</p>
